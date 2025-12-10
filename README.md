@@ -1,188 +1,141 @@
-# 👋 Hi, I'm Saurav Shejwal
-## Data Analyst | Business Intelligence Specialist
+👋 Hi, I'm Saurav Shejwal
+Data Analyst • Business Intelligence • Power BI • SQL • Python
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-shejucodes.com-blue?style=flat-square&logo=google-chrome)](https://shejucodes.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/shejucodes)
-[![Email](https://img.shields.io/badge/Email-sauravshejwal@gmail.com-red?style=flat-square&logo=gmail)](mailto:sauravshejwal@gmail.com)
 
----
 
-## 🎯 CAREER OBJECTIVE
 
-Aspiring **Data Analyst** seeking to leverage analytical skills and technical expertise to transform complex data into actionable business insights and drive data-driven decision-making. Passionate about using data visualization and business intelligence tools to solve real-world business problems and optimize performance metrics.
 
----
 
-## 💼 PROFESSIONAL SUMMARY
+🎯 CAREER OBJECTIVE
 
-Detail-oriented and analytical professional with expertise in **business intelligence** and **data visualization**. Proficient in extracting insights from complex datasets, conducting statistical analysis, and presenting findings through compelling visual narratives. Experienced in developing end-to-end data analysis solutions that drive strategic business decisions.
+Data Analyst skilled in SQL, Power BI, Python (Pandas) and Excel, focused on transforming data into clear business insights. I aim to support organizations in improving KPIs, automating reporting, and driving data-backed decisions through scalable Business Intelligence solutions.
 
-**Key Strengths:**
-- 📊 Data Analysis & Statistical Modeling
-- 📈 Business Intelligence & Reporting
-- 🎨 Data Visualization & Storytelling
-- 🔍 Problem-Solving & Critical Thinking
-- 💡 Strategic Decision Support
+💼 PROFESSIONAL SUMMARY
 
----
+Data Analyst with hands-on experience in forecasting, dashboard automation, KPI tracking, and data modeling. I worked as a Project Coordinator with EnergiSpeak Analytics, where I contributed to an ML-based solar forecasting system, automated dashboards, and delivered measurable business insights.
 
-## 🛠️ TECHNICAL SKILLS
+Strengths:
 
-### Programming & Data Analysis
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+📊 Analytical thinking & KPI measurement
 
-**Python Libraries:**
-- `Pandas` - Data manipulation and analysis
-- `NumPy` - Numerical computing
-- `Plotly` - Interactive visualizations
-- `Matplotlib` - Statistical plotting
-- `Seaborn` - Advanced data visualization
+📈 Power BI dashboarding & reporting
 
-### Business Intelligence Tools
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+🔄 Forecasting & time-series analysis
 
-**Expertise:**
-- Advanced Excel (Pivot Tables, VLOOKUP, Power Query, Macros)
-- Power BI Dashboard Development
-- DAX Functions & Calculated Measures
-- Interactive Report Design
+🧩 Business problem-solving
 
-### Database & Query Languages
-- SQL (MySQL, PostgreSQL)
-- Data Warehousing Concepts
-- ETL Processes
-- Database Design & Optimization
+🤝 Strong communication & stakeholder coordination
 
-### Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+🛠 TECH STACK (Optimized from your resume)
+🔹 Programming & Data Analysis
 
----
+Python: Pandas, NumPy, Scikit-learn
+SQL: MySQL, PostgreSQL
+Core Skills: ETL, Data Cleaning, Feature Engineering, Predictive Modeling, Data Transformation
 
-## 📊 KEY PROJECTS
+🔹 Business Intelligence
 
-### 🛒 [E-Commerce Sales Analysis](https://github.com/shejucodes/E-Commerce-Sales-Analysis)
-**Technologies:** Python, Pandas, Plotly, Data Visualization
+Power BI, DAX, Data Modeling, KPI Reporting
+Excel: Pivot Tables, VLOOKUP, Power Query
 
-**Comprehensive analysis of e-commerce sales data delivering actionable insights:**
-- ✅ Analyzed **1000+ transactions** across multiple product categories
-- ✅ Identified sales trends resulting in **15% revenue optimization** opportunities
-- ✅ Performed customer segmentation analysis to identify high-value customer groups
-- ✅ Developed interactive visualizations showing profit margins by category and region
-- ✅ Conducted time-series analysis to forecast seasonal sales patterns
-- ✅ Created data-driven recommendations for inventory optimization
+🔹 Data Engineering & Databases
 
-**Key Metrics Delivered:**
-- Revenue growth trends by quarter
-- Customer lifetime value analysis
-- Product category performance comparisons
-- Regional sales distribution insights
+SQL Queries, Joins, CTEs, Aggregations
+Database Design • Normalization
+ETL Processes
 
----
+🔹 Web & Portfolio Development
 
-### 🌐 [Portfolio Website](https://github.com/shejucodes/Portfolio-Website)
-**Technologies:** HTML, CSS, JavaScript, Responsive Design
+HTML • CSS • JavaScript
+Interactive resume-builder & dashboards embedded website
 
-**Interactive web platform showcasing data analytics projects:**
-- ✅ Designed and developed responsive portfolio website from scratch
-- ✅ Implemented interactive features for project demonstrations
-- ✅ Showcased resume builder project with real-time preview functionality
-- ✅ Integrated contact forms and professional networking links
-- ✅ Optimized for ATS compatibility and mobile responsiveness
+📊 KEY PROJECTS (Aligned with your resume)
+🛒 E-Commerce Sales Analytics
 
-**Highlights:**
-- Clean, professional UI/UX design
-- Fast loading performance
-- Cross-browser compatibility
-- SEO-optimized content structure
+Tech: Python, Pandas, SQL, Power BI
 
----
+Analyzed 200K+ transactions across regions, categories, and customer segments
 
-## 🎓 CERTIFICATIONS
+Identified pricing and marketing insights enabling 12–15% revenue uplift
 
-📜 **Business Intelligence & Data Analytics**
-- Completed comprehensive training in BI tools and methodologies
-- Hands-on experience with real-world business scenarios
+Automated dashboards for SKU demand, profitability, and regional performance
 
-📜 **Advanced Excel & Power BI Training**
-- Expert-level Excel functions and formulas
-- Power BI dashboard development and DAX
-- Data modeling and visualization best practices
+☀️ Solar PV Forecasting – EnergiSpeak Analytics
 
-📜 **SQL & Database Management**
-- Database design and optimization
-- Complex query writing and performance tuning
-- Data warehousing concepts
+Tech: Python, Power BI, Excel
 
-📜 **Python for Data Analysis**
-- Data manipulation with Pandas
-- Statistical analysis and visualization
-- ETL processes and automation
+Improved demand planning accuracy by 18% using ML-based forecasting
 
----
+Automated reporting dashboards reducing manual effort by 40%
 
-## 💪 SOFT SKILLS
+Delivered KPI insights for cost optimization and energy curtailment reduction
 
-- 🎯 **Problem-Solving:** Analytical approach to complex business challenges
-- 📊 **Data Storytelling:** Translating technical insights into business language
-- 🤝 **Collaboration:** Cross-functional teamwork and stakeholder management
-- ⚡ **Adaptability:** Quick learner with ability to master new tools and technologies
-- 📈 **Business Acumen:** Understanding of KPIs, metrics, and business drivers
-- 🔍 **Attention to Detail:** Ensuring data accuracy and quality in all deliverables
-- ⏰ **Time Management:** Meeting deadlines while maintaining high-quality standards
+🌐 Portfolio Website + Resume Builder
 
----
+Tech: HTML, CSS, JavaScript
 
-## 📈 GITHUB STATISTICS
+Created interactive resume builder transforming user inputs into structured documents
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shejucodes&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shejucodes&layout=compact&theme=radical)
+Showcases end-to-end BI and analytics projects with clean UI/UX
 
----
+Optimized for visibility, mobile responsiveness and professional branding
 
-## 🔗 CONNECT WITH ME
+🎓 CERTIFICATIONS
 
-💼 **Portfolio:** [shejucodes.com](https://shejucodes.com)
-📧 **Email:** [sauravshejwal@gmail.com](mailto:sauravshejwal@gmail.com)
-💼 **LinkedIn:** [linkedin.com/in/shejucodes](https://linkedin.com/in/shejucodes)
-🐙 **GitHub:** [@shejucodes](https://github.com/shejucodes)
+Deloitte Data Analytics Virtual Experience
 
----
+Quantium Data Analytics Virtual Experience
 
-## 🚀 CURRENTLY
+Tata GenAI Data Analytics Simulation
 
-- 🔭 Working on: Advanced data analytics projects and dashboard development
-- 🌱 Learning: Machine Learning algorithms and advanced statistical modeling
-- 👯 Open to: Data Analyst roles, Business Intelligence positions, and collaborative projects
-- 💬 Ask me about: SQL, Python, Power BI, Excel, Data Visualization, Business Intelligence
-- 📫 How to reach me: [sauravshejwal@gmail.com](mailto:sauravshejwal@gmail.com)
+Data Analytics — JobAaj
 
----
+Project Management — JobAaj
 
-## 📊 REPOSITORY HIGHLIGHTS
+Prompt Engineering — Code360
 
-### Featured Projects
+💪 SOFT SKILLS
 
-| Project | Description | Technologies | Status |
-|---------|-------------|--------------|--------|
-| [E-Commerce Sales Analysis](https://github.com/shejucodes/E-Commerce-Sales-Analysis) | Comprehensive sales data analysis with interactive visualizations | Python, Pandas, Plotly | ✅ Complete |
-| [Portfolio Website](https://github.com/shejucodes/Portfolio-Website) | Professional portfolio showcasing projects and skills | HTML, CSS, JavaScript | ✅ Complete |
+Data Storytelling
 
----
+Stakeholder Management
 
-### 🎯 ATS-FRIENDLY KEYWORDS
+Business Communication
 
-`Data Analyst` • `Business Intelligence` • `SQL` • `Python` • `Power BI` • `Excel` • `Data Visualization` • `Pandas` • `NumPy` • `Plotly` • `Statistical Analysis` • `ETL` • `Dashboard Development` • `KPI Reporting` • `Data Mining` • `Predictive Analytics` • `Business Analytics` • `Data Modeling` • `Database Management` • `Reporting` • `Analytics` • `Big Data` • `Data Warehousing` • `Data Quality` • `Data-Driven Decision Making`
+Problem-Solving & Critical Thinking
 
----
+Time Management
 
-<div align="center">
+Attention to Detail
 
-### ⭐ "Turning Data into Decisions, Insights into Impact" ⭐
+🔗 CONNECT WITH ME
 
-![Profile Views](https://komarev.com/ghpvc/?username=shejucodes&color=blue&style=flat-square)
+📧 Email: sauravshejwal@gmail.com
 
-</div>
+🔗 LinkedIn:
+https://www.linkedin.com/in/saurav-shejwal-360a051a9/
+
+🐙 GitHub:
+https://github.com/shejucodes
+
+🌐 Portfolio:
+https://sauravshejwalresumewebsite.space.z.ai/
+
+🚀 CURRENT FOCUS
+
+Working on advanced Power BI dashboards
+
+Learning ML forecasting & statistical modeling
+
+Open to Data Analyst, BI Analyst, Reporting Analyst roles
+
+⭐ PORTFOLIO HIGHLIGHTS
+Project	Description	Tech	Status
+E-Commerce Sales Analysis	Revenue optimization insights	Python, SQL, Power BI	✅
+Solar Forecasting (EnergiSpeak)	ML forecasting, KPIs, dashboards	Python, Power BI	✅
+Resume Builder	Automated document generator	HTML, JS	✅
+🎯 ATS-Optimized Keywords
+
+Data Analyst • SQL • Python • Power BI • Pandas • Data Cleaning • Forecasting • Dashboards • KPI Analysis • Reporting • ETL • Predictive Modeling • Business Intelligence • Excel • Stakeholder Management • Data Transformation • Statistical Analysis
+
+⭐ “Turning Data into Decisions. Insights into Impact.”
