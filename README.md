@@ -1,141 +1,127 @@
-👋 Hi, I'm Saurav Shejwal
-Data Analyst • Business Intelligence • Power BI • SQL • Python
+# 👋 Hi, I'm Saurav Shejwal
 
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurav-shejwal-360a051a9/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shejucodes)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sauravshejwalresumewebsite.space.z.ai/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sauravshejwal@gmail.com)
 
+</div>
 
+## 💼 Data Analyst | Business Intelligence | Power BI Specialist
 
+> *"Transforming data into actionable insights that drive measurable business impact"*
 
+---
 
-🎯 CAREER OBJECTIVE
+## 🎯 About Me
 
-Data Analyst skilled in SQL, Power BI, Python (Pandas) and Excel, focused on transforming data into clear business insights. I aim to support organizations in improving KPIs, automating reporting, and driving data-backed decisions through scalable Business Intelligence solutions.
+**Data Analyst** skilled in SQL, Power BI, Python (Pandas), and Excel—focused on delivering clear, actionable business insights. I help organizations improve KPIs, automate reporting workflows, and make data-driven decisions through scalable Business Intelligence solutions.
 
-💼 PROFESSIONAL SUMMARY
+**Currently:** Building advanced Power BI dashboards | Learning ML forecasting & statistical modeling | Open to **Data Analyst, BI Analyst, Reporting Analyst** roles
 
-Data Analyst with hands-on experience in forecasting, dashboard automation, KPI tracking, and data modeling. I worked as a Project Coordinator with EnergiSpeak Analytics, where I contributed to an ML-based solar forecasting system, automated dashboards, and delivered measurable business insights.
+---
 
-Strengths:
+## 💡 Professional Experience
 
-📊 Analytical thinking & KPI measurement
+**Project Coordinator | EnergiSpeak Analytics**
+- Developed ML-based solar energy forecasting system with KPI tracking
+- Automated Power BI dashboards, reducing manual reporting time
+- Delivered measurable business insights through data modeling and visualization
 
-📈 Power BI dashboarding & reporting
+**Key Strengths:**
+- 📊 Analytical thinking & KPI measurement
+- 📈 Advanced Power BI dashboarding & DAX
+- 🔄 Forecasting & time-series analysis  
+- 🧩 Business problem-solving
+- 🤝 Stakeholder management & communication
 
-🔄 Forecasting & time-series analysis
+---
 
-🧩 Business problem-solving
+## 🛠️ Technical Skills
 
-🤝 Strong communication & stakeholder coordination
+### 🔹 Data Analysis & Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-🛠 TECH STACK (Optimized from your resume)
-🔹 Programming & Data Analysis
+**Core Skills:** ETL • Data Cleaning • Feature Engineering • Predictive Modeling • Statistical Analysis
 
-Python: Pandas, NumPy, Scikit-learn
-SQL: MySQL, PostgreSQL
-Core Skills: ETL, Data Cleaning, Feature Engineering, Predictive Modeling, Data Transformation
+### 🔹 Business Intelligence & Visualization  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
-🔹 Business Intelligence
+**Expertise:** DAX • Data Modeling • KPI Dashboards • Power Query • Pivot Tables • VLOOKUP
 
-Power BI, DAX, Data Modeling, KPI Reporting
-Excel: Pivot Tables, VLOOKUP, Power Query
+### 🔹 Databases & SQL
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-🔹 Data Engineering & Databases
+**Skills:** Complex Queries • Joins • CTEs • Window Functions • Database Design • Normalization
 
-SQL Queries, Joins, CTEs, Aggregations
-Database Design • Normalization
-ETL Processes
+### 🔹 Web Development & Tools
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-🔹 Web & Portfolio Development
+---
 
-HTML • CSS • JavaScript
-Interactive resume-builder & dashboards embedded website
+## ⭐ Featured Projects
 
-📊 KEY PROJECTS (Aligned with your resume)
-🛒 E-Commerce Sales Analytics
+| Project | Description | Tech Stack | Status |
+|---------|-------------|------------|--------|
+| **E-Commerce Sales Analysis** | Revenue optimization insights & customer segmentation | Python, SQL, Power BI | ✅ |
+| **Solar Forecasting (EnergiSpeak)** | ML-based energy forecasting with real-time KPI dashboards | Python, Power BI, Scikit-learn | ✅ |
+| **Resume Builder** | Automated HTML/JS document generator | HTML, CSS, JavaScript | ✅ |
+| **Business Intelligence Dashboard** | Multi-source data integration with automated reporting | Power BI, SQL, DAX | ✅ |
 
-Tech: Python, Pandas, SQL, Power BI
+---
 
-Analyzed 200K+ transactions across regions, categories, and customer segments
+## 📜 Certifications & Learning
 
-Identified pricing and marketing insights enabling 12–15% revenue uplift
+- ✅ **Deloitte Data Analytics Virtual Experience**
+- ✅ **Quantium Data Analytics Virtual Experience**  
+- ✅ **Tata GenAI Data Analytics Simulation**
+- ✅ **Data Analytics — JobAaj**
+- ✅ **Project Management — JobAaj**
+- ✅ **Prompt Engineering — Code360**
 
-Automated dashboards for SKU demand, profitability, and regional performance
+---
 
-☀️ Solar PV Forecasting – EnergiSpeak Analytics
+## 💪 Soft Skills
 
-Tech: Python, Power BI, Excel
+```
+✓ Data Storytelling          ✓ Stakeholder Management
+✓ Business Communication     ✓ Problem-Solving & Critical Thinking  
+✓ Time Management            ✓ Attention to Detail
+```
 
-Improved demand planning accuracy by 18% using ML-based forecasting
+---
 
-Automated reporting dashboards reducing manual effort by 40%
+## 📊 GitHub Stats
 
-Delivered KPI insights for cost optimization and energy curtailment reduction
+<div align="center">
+  
+![Saurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=shejucodes&show_icons=true&theme=radical)
 
-🌐 Portfolio Website + Resume Builder
+</div>
 
-Tech: HTML, CSS, JavaScript
+---
 
-Created interactive resume builder transforming user inputs into structured documents
-
-Showcases end-to-end BI and analytics projects with clean UI/UX
-
-Optimized for visibility, mobile responsiveness and professional branding
-
-🎓 CERTIFICATIONS
-
-Deloitte Data Analytics Virtual Experience
-
-Quantium Data Analytics Virtual Experience
-
-Tata GenAI Data Analytics Simulation
-
-Data Analytics — JobAaj
-
-Project Management — JobAaj
-
-Prompt Engineering — Code360
-
-💪 SOFT SKILLS
-
-Data Storytelling
-
-Stakeholder Management
-
-Business Communication
-
-Problem-Solving & Critical Thinking
-
-Time Management
-
-Attention to Detail
-
-🔗 CONNECT WITH ME
-
-📧 Email: sauravshejwal@gmail.com
-
-🔗 LinkedIn:
-https://www.linkedin.com/in/saurav-shejwal-360a051a9/
-
-🐙 GitHub:
-https://github.com/shejucodes
-
-🌐 Portfolio:
-https://sauravshejwalresumewebsite.space.z.ai/
-
-🚀 CURRENT FOCUS
-
-Working on advanced Power BI dashboards
-
-Learning ML forecasting & statistical modeling
-
-Open to Data Analyst, BI Analyst, Reporting Analyst roles
-
-⭐ PORTFOLIO HIGHLIGHTS
-Project	Description	Tech	Status
-E-Commerce Sales Analysis	Revenue optimization insights	Python, SQL, Power BI	✅
-Solar Forecasting (EnergiSpeak)	ML forecasting, KPIs, dashboards	Python, Power BI	✅
-Resume Builder	Automated document generator	HTML, JS	✅
-🎯 ATS-Optimized Keywords
+## 🎯 ATS Keywords
 
 Data Analyst • SQL • Python • Power BI • Pandas • Data Cleaning • Forecasting • Dashboards • KPI Analysis • Reporting • ETL • Predictive Modeling • Business Intelligence • Excel • Stakeholder Management • Data Transformation • Statistical Analysis
 
-⭐ “Turning Data into Decisions. Insights into Impact.”
+---
+
+<div align="center">
+
+### ⭐ *"Turning Data into Decisions. Insights into Impact."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=shejucodes&color=blueviolet&style=flat-square)
+
+</div>
